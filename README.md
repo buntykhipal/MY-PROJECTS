@@ -1,2 +1,2 @@
 # MY-PROJECTS
-In this repository my all projects code here.
+All projects code here  In this repository.
