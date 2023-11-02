@@ -1,3 +1,3 @@
 # MY-PROJECTS
-All projects code here  In this repository.
+All projects code here  in this repository.
 
