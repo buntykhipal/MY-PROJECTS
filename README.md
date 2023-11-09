@@ -1,3 +1,3 @@
 # MY-PROJECTS
-All projects code here  In this repository.
- click on branchs to get code
+All projects code here  in this repository.
+
