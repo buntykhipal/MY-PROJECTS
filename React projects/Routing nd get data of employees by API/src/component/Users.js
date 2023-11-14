@@ -31,7 +31,7 @@ export default function Users() {
                 return (
                   
                    <div key={i.id} className='employee'>
-                        <div><p>{i.id} .ID:-{1}</p></div>
+                        <div><p>{i.id} .ID:-{i.id}</p></div>
                         <p>First-Name:- {i.firstName}</p>
                         <p>Last-Name:- {i.lastName}</p>
                         <div className='btn'>

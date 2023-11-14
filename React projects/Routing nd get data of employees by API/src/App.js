@@ -10,7 +10,12 @@ import Navbar from './component/Navbar';
 import './global.css'
 import Blogs from './component/Blogs';
 
+
+
 function App() {
+  
+
+
   return (
     <div >
     <Navbar></Navbar>
@@ -36,4 +41,3 @@ function App() {
 }
 
 export default App;
-

@@ -21,6 +21,7 @@ const NUMBER=document.getElementById('numbers')
 const SYMBOL=document.getElementById('symbols')
 
 
+
 function trimpassword(string,number){
     if(string.length>number){
       return string.slice(0,number)
@@ -56,6 +57,7 @@ function generatepassword(password=''){
                                      generatepassword()  })
 
 generatepassword()
+
 
 
 buttonr.addEventListener('click', function(){
